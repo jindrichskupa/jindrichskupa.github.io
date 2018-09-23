@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Jindrich Skupa located in Pilsen, Czech republic
 
-### More Information
+## More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+... TODO ...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jindrich.skupa@gmail.com](mailto:jindrich.skupa@gmail.com)
